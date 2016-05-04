@@ -294,6 +294,7 @@
 				E25506E11CD93D7800F4777A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
